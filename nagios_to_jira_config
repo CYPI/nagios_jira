@@ -1,0 +1,12 @@
+JIRA_AUTHORIZATION:
+JIRA_URL:
+jira_project_id:
+jira_project_key:
+jira_custom_field_id:
+jira_issue_type:
+jira_open_transition_id:
+jira_close_transition_id:
+jira_issue_closed_id:
+jira_warning_priority_id:
+jira_critical_priority_id:
+log_file_path:
